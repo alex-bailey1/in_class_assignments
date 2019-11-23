@@ -1,0 +1,9 @@
+.object{
+    background-color: white;
+    margin-right: 0;
+    outline: 1px solid black;
+  }
+  
+  .mt-5 {
+    width: 300px;
+  }
