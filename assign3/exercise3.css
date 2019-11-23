@@ -1,0 +1,8 @@
+.box {
+  outline: 1px solid black;
+  display: inline-block;
+  width: 20%;
+  height: 20%;
+  background-color: grey;
+  
+}

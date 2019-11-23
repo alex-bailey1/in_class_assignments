@@ -1,0 +1,29 @@
+.box {
+  outline: 1px solid black;
+  color: white;
+  
+}
+
+.navy-box {
+  background-color: navy;
+}
+
+.purple-box {
+  background-color: purple;
+}
+
+.darkcyan-box {
+  background-color: darkcyan;
+}
+
+.salmon-box {
+  background-color: salmon;
+}
+
+.green-box {
+  background-color: green;
+}
+
+.yellowgreen-box {
+  background-color: yellowgreen;
+}
