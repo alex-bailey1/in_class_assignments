@@ -1,0 +1,39 @@
+nav {
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    display: inline;
+    background-color: darkred;
+    color: grey
+ }
+
+ li {
+    display: inline;
+    padding: 5px;
+ }
+
+ nav a {
+     color: grey
+ }
+
+ .main {
+    padding: 30px;
+ }
+
+.color_button {
+    background-color: blue;
+    color: white;
+}
+
+.paragraph_color {
+    background-color: lightgrey;
+}
+
+.second_row {
+    padding: 10px;
+}
+

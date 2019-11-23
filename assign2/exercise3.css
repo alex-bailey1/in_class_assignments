@@ -1,0 +1,36 @@
+ul {
+    display: inline;
+    background-color: lightblue;
+}
+
+li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    display: inline;
+    
+ }
+
+.box {
+    border: 1px solid black;
+}
+
+.contact_form {
+    padding: 10px;
+    background-color: lightcoral;
+}
+
+input[type="button"]:hover {
+    background-color: blue;
+    color: white;
+}
+
+.portfolio {
+    padding: 10px;
+    background-color: lightseagreen;
+}
+
+footer {
+    background-color: lightgreen;
+    padding: 10px;
+}

@@ -1,0 +1,19 @@
+ .box {
+    font: helvetica;
+    background-color: white;
+    margin: auto;
+    width: 40%;
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+
+ }
+
+ body {
+     background: linear-gradient(to right, green, yellow);
+ }
+
+ input[type="button"]:hover {
+    background-color: blue; 
+    color: white;
+ }
